@@ -1,2 +1,3 @@
 # poemas
-# Bienvenidos 
+# Bienvenidos
+> no soy profesional y toda crítica me sirve
